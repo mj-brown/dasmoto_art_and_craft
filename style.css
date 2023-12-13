@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    overflow: scroll;
+}
+
+header {
+    background-image: url(./resources/pattern.jpeg);
+    background-repeat: no-repeat;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    width: 1660px;     
+    overflow: hidden;  
+}
+
+h1 {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 20px 10px 10px 10px;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+img {
+    margin: 10px;
+    height: auto;
+    width: 300px;
+}
+
+p {
+    font-size: 18px;;
+    margin: 10px 10px 30px 10px;
+}
+
+strong {
+    color: blue;
+    font-weight: bold;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}

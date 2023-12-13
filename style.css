@@ -10,10 +10,11 @@ body {
 header {
     background-image: url(./resources/pattern.jpeg);
     background-repeat: no-repeat;
+    background-size: cover;
     height: auto;
     margin: 10px;
     padding: 5px;
-    width: 1660px;     
+    width: 100%;    
     overflow: hidden;  
 }
 
